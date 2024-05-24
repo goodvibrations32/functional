@@ -43,7 +43,7 @@ executable functional
     -- other-extensions:
     build-depends:
         base >=4.17.2.1,
-        haskell-say ^>=1.0.0.0,
+        -- haskell-say ^>=1.0.0.0,
         functional
 
     hs-source-dirs:   app
